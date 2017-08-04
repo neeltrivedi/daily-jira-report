@@ -1,0 +1,11 @@
+{
+  "searchString1":"project = \"MELT Project\" AND issuetype = \"Test Execution\" AND status changed to (\"T.E. Passed\", \"T.E. Failed\") after -2d",
+  "filename1": "MELT - Test Execution Type - Executed - Last 24 Hours.csv",
+  "searchString2":"project = \"MELT Project\" AND issuetype = \"Test Scenario\" AND status changed to (\"Test Passed\", \"Test Failed\") after -2d",
+  "filename2": "MELT - Test Scenario Type - Executed - Last 24 Hours.csv",
+  "optional":
+    {
+      "fields": ["issuetype", "summary", "assignee", "priority", "status", "issuelinks", "type", "outwardIssue", "resolution", "created", "updated", "fixVersions", "environment", "description", "customfield_10304", "customfield_10412", "fields", "attachment"],
+      "maxResults" : "1000"
+    }
+}

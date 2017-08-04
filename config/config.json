@@ -1,0 +1,12 @@
+{
+  "protocol": "https",
+  "host": "technitask.atlassian.net",
+  "port": "",
+  "apiVersion": "2",
+  "strictSSL": true,
+  "emailHost": "smtp.office365.com",
+  "tls": true,
+  "fromList": "Neel Trivedi <neel.trivedi@technitask.com>",
+  "toList": "Atul Kachru <atul.kachru@technitask.com>",
+  "ccList": "Neel Trivedi <neel.trivedi@technitask.com>"
+}
